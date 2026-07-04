@@ -1,4 +1,4 @@
-# carbon-optima-agent
+# supply-chain-carbon-optima-agent
 
 Simple ReAct agent
 Agent generated with `agents-cli` version `1.0.0`
