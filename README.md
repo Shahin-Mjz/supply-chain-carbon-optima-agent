@@ -7,7 +7,7 @@ Agent generated with `agents-cli` version `1.0.0`
 
 ```
 carbon-optima-agent/
-├── app/         # Core agent code
+├── app/                       # Core agent code
 │   ├── agent.py               # Main agent logic
 │   ├── fast_api_app.py        # FastAPI Backend server
 │   └── app_utils/             # App utilities and helpers
