@@ -44,10 +44,9 @@ Before you begin, ensure you have:
 
 ## Quick Start
 
-1. **Clone the repository:**
+1. **Clone the** [**Repository**](https://github.com/Shahin-Mjz/supply-chain-carbon-optima-agent.git)**:**
 ```bash
-   git clone [https://github.com/Shahin-Mjz/supply-chain-carbon-optima-agent.git]([https://github.com/YOUR_USERNAME/supply-chain-carbon-optima-agent.git](https://github.com/Shahin-Mjz/supply-chain-carbon-optima-agent.git))
-   cd supply-chain-carbon-optima-agent
+   git clone <Repo Link>
 ```
 2. Set your API Key:
 Create a `.env` file in the root directory and add your Gemini key:
